@@ -3,6 +3,7 @@
 </h1>
 
 > WoWAnalyzer is a tool to help you analyze and improve your World of Warcraft raiding performance through various relevant metrics and gameplay suggestions.
+> EV is a fork to gather specific and useful information for Augementation Evokers.
 
 [https://wowanalyzer.com](https://wowanalyzer.com)
 
